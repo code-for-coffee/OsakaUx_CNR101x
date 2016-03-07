@@ -23,3 +23,8 @@ Two fold - signal vs symbol:
 - Reconsider "language" itself.
 - Think about "language" and the brain.
 - *The Symbolic Species: The Co-evolution of language and the brain* by Terrance W. Deacon, 1998.
+
+#### How to design robots that speak language?
+
+- How do we have robots that evolve to understand language?
+- How do they form cognitive functions?
